@@ -1,7 +1,7 @@
 # 🎉Hi! Here is a happy space!🎉
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D7EF7&background=FFE77900&width=435&lines=I+am+Kolin+Loa+)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+space)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D7EF7&background=FFE77900&width=435&lines=Welcome+to+my+space)](https://git.io/typing-svg)   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D7EF7&background=FFE77900&width=435&lines=It's+my+turn)](https://git.io/typing-svg)
 
 ---------------------------------------------
